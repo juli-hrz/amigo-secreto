@@ -11,6 +11,7 @@ Una aplicación sencilla en **JavaScript, HTML y CSS** para realizar el clásico
 - [Funcionalidades](#funcionalidades)
 - [Demostración](#demostración)
 - [Tecnologías usadas](#tecnologías-usadas)
+- [Autora](#autora)
 
 ---
 
