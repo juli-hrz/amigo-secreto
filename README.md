@@ -51,15 +51,15 @@ Fue desarrollado como parte del programa **Oracle Next Education + Alura**, para
 
 **- Pantalla inicial:**
 
-![Pantalla inicial](assets/screenshots/1.png)  
+![Pantalla inicial](assets/Screenshots/1.png)  
 
 **- Lista con amigos:**
 
-![Lista con amigos](assets/screenshots/2.png)  
+![Lista con amigos](assets/Screenshots/2.png)  
 
 **- Resultado del sorteo:**
 
-![Resultado del sorteo](assets/screenshots/3.png)  
+![Resultado del sorteo](assets/Screenshots/3.png)  
 
 ## 💻 Tecnologías usadas
 
@@ -67,4 +67,9 @@ Fue desarrollado como parte del programa **Oracle Next Education + Alura**, para
 - CSS
 - JavaScript
 
+---
 
+## ✒️ Autora
+
+Proyecto desarrollado por **[Juli Hernández](https://github.com/juli-hrz)** 💻✨  
+Como parte del programa **Oracle Next Education + Alura**.
